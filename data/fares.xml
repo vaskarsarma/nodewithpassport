@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fares>
+  <resources resource="/include/xml/system_ek.xml">
+    <publication>233</publication>
+    <defaultAirport />
+    <collapseFares>Yes</collapseFares>
+    <EnableTCAsDCP>Yes</EnableTCAsDCP>
+  </resources>
+  <regions>
+    <region id="355941" title="The Americas" />
+    <region id="192563" title="Europe" />
+    <region id="608578" title="The Middle East" />
+    <region id="192847" title="Africa" />
+    <region id="192393" title="Asia &amp; the Pacific" />
+  </regions>
+</fares><!-- Render time 1.64100 seconds @ 08/02/2017 09:05:19 AM --><!-- Render Time for Dynamic Resources Resolver with mode - static : 0 seconds -->
